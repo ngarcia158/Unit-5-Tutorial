@@ -7,7 +7,7 @@
 
    Payment Form Script
    
-   Author: 
+   Author:Nicholas Garcia
    Date:   
    
    Filename: co_payment.js
